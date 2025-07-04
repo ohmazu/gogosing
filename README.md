@@ -5,7 +5,7 @@ This repository contains study materials from a Kaggle notebook transcription pr
 
 ## 📅 Weekly Notebook List
 
-| 주차 | 노트북 | 주제 요약 |
+| week | notebook | topic |
 |------|--------|------------|
 | [1주차](./week01.md) | House Prices: EDA and Prediction (siddheshpujari) | Exploratory Data Analysis & Preprocessing |
 
