@@ -7,7 +7,7 @@ This repository contains study materials from a Kaggle notebook transcription pr
 
 | week | notebook | topic |
 |------|--------|------------|
-| [1주차](./week01.md) | House Prices: EDA and Prediction (siddheshpujari) | Exploratory Data Analysis & Preprocessing |
+| [week1](./week01.md) | House Prices: EDA and Prediction (siddheshpujari) | Exploratory Data Analysis & Preprocessing |
 
 
 ---
