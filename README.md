@@ -1,7 +1,7 @@
 # gogosing
-## 📚 Kaggle Transcription Study
+## 📚 Kaggle Handwriting Study
 
-This repository contains study materials from a Kaggle notebook transcription project. By reproducing and annotating various data analysis notebooks, we aim to build a deeper understanding of the overall data analysis process.
+This repository contains study materials from a Kaggle notebook handwriting project. By reproducing and annotating various data analysis notebooks, we aim to build a deeper understanding of the overall data analysis process.
 
 ## 📅 Weekly Notebook List
 
